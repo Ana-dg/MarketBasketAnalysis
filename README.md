@@ -1,5 +1,5 @@
-# RealEstate_Capstone
-In this project I analyzed the Real Estate market in Bucharest, Romania and found the best price for an apartment based on some criterias <br>
-The notebook is for people or businessmen who are looking for renting or buying apartments <br>
+# Market Basket Analysis
+In this project I performed the Market Basket Analysis and analyzed constumers behavior based on their orders using the database of an online grocery store <br>
+The notebook is for retail stores that want to improve sales using recommendation systems<br>
 You can download it and use it in a jupyter notebook <br>
 
